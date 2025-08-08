@@ -22,9 +22,9 @@ Para dejarlo configurado de forma correcta, se recomienda encarecidamente seguir
 cd $HOME
 ```
 
-2. Copia en el home este mismo repositorio con el comando *git clone*:
+2. Copia en el home este mismo repositorio con el comando *git clone*. A continuación se muestra el comando usando la url de HTTP, es posible sustituirla por la de SSH o por la descarga del .ZIP si se prefiere:
 ```bash
-git clone <url: ssh || http>
+git clone https://github.com/m2stack/AdExternals.git
 ```
 
 3. Asegurate de que funcionen los comandos para ambas instalaciones. Para comprobar jhove puedes ejecutar lo siguiente tras realizar el paso anterior
